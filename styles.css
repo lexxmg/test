@@ -53,6 +53,8 @@ html, body {
 
 .container__form {
 	padding: 50px 50px;
+
+
 }
 
 .form {
@@ -73,5 +75,12 @@ html, body {
 	height: 50px;
 
 	margin: 10px 0;
+
+	font-size: 25px;
 }
+
+.form__input:focus {
+	outline: 2px solid red;
+	/*outline-style: auto;*/
+} 
 
