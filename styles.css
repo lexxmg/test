@@ -8,7 +8,7 @@ html, body {
 }
 
 .container {
-	/*position: relative;*/
+	position: relative;
 
 	display: flex;
 	justify-content: center;
@@ -53,8 +53,11 @@ html, body {
 
 .container__form {
 	padding: 50px 50px;
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 5ccef1167c827cd8bf99bc9644f2b93a2e786dd6
 }
 
 .form {
@@ -75,6 +78,7 @@ html, body {
 	height: 50px;
 
 	margin: 10px 0;
+<<<<<<< HEAD
 
 	font-size: 25px;
 }
@@ -84,3 +88,7 @@ html, body {
 	/*outline-style: auto;*/
 } 
 
+=======
+}
+
+>>>>>>> 5ccef1167c827cd8bf99bc9644f2b93a2e786dd6
