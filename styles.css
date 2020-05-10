@@ -73,5 +73,11 @@ html, body {
 	height: 50px;
 
 	margin: 10px 0;
+
+	font-size: 25px;
 }
 
+.form__input:focus {
+	outline: 2px solid red;
+	/*outline-style: auto;*/
+} 
